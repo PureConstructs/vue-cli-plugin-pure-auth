@@ -10,9 +10,10 @@ TODOs
   - [ ] Add routes
 - [ ] Base Generator JS File
   - [x] Add axios dependency
-- [ ] Vue Axios Auth Base
-- [ ] Vue Axios Auth Login
-- [ ] Testing
+- [ ] Helpers
+  - [ ] Vue Axios Auth Base
+  - [ ] Vue Axios Auth Login
+
 
 Algorithms
 ------
