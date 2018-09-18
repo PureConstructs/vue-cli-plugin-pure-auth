@@ -24,9 +24,9 @@ vue add pure-auth
 
 ## Using with other plugins
 
-### Electron
+### Electron - Vuetify
 
-Just add [vue-cli-plugin-electron-builder](https://www.npmjs.com/package/vue-cli-plugin-electron-builder)
+Just add [vue-cli-plugin-electron-builder](https://www.npmjs.com/package/vue-cli-plugin-electron-builder) and [vue-cli-plugin-vuetify](https://www.npmjs.com/package/vue-cli-plugin-vuetify)
 
 ```
 vue add electron-builder
